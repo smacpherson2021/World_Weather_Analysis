@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-## Overview of the school district analysis: 
+## Overview of the World_Weather_Analysis: 
 
 This analysis addresses 4 key changes have been recommended for the PlanMyTrip app: 
 1) Add weather descriptions to the weather data that has been already retrieved.
